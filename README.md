@@ -4,8 +4,8 @@
 The purpose of this analysis was to determine the temperature patterns in Oahu, Hawaii to determine the viability of a surf and ice cream store in the area. June and December were chosen as the primary months for analysis. Analysis was done using by using SQLAlchemy to query SQLite databases.
 
 ## Analysis
-<insert june temps>
-<insert Dec temps>
+![June_Temperatures](https://github.com/Tbrecke01/Surfs_Up/blob/main/June_temps.png)
+![December_Temperatures](https://github.com/Tbrecke01/Surfs_Up/blob/main/Dec_temps.png)
 As you can see above, temperatures in Oahu, Hawaii are fairly similair for the months of June and Decemnber with 3 key exceptions:
 - Average (mean) and Max temperatures are fairly equal, with Avg temps being 3 degrees higher in June and Max temperatures being 2 degrees higher in June.
 - Min temperature is much warmer in June, with the June min temp (64) being 8 degrees warmer than Decembers (56)
